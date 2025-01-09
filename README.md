@@ -1,17 +1,5 @@
-<!-- # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
-
-[x] - Grid
-[x] - Array of Icons
-[x] - Duplications
-[x] - Shuffle Logic
-[x] - Flipped
-[x] - Solved
-[x] - Position
-[x] - Game completed
+https://memory-game-mu-gilt-92.vercel.app/
+Test your memory skills with this interactive game built using 
+React, HTML, and CSS!
+Flip the cards, match the pairs, and challenge yourself to beat your best time. 
+A fun way to sharpen your focus and improve your concentration!
